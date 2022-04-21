@@ -7,6 +7,7 @@ public class Company {
 	
 	private String address;
 	private String city;
+	private String salary;
 	
 	@Override
 	public String toString() {
