@@ -2,6 +2,7 @@ package mainJavaOrgGitsimple;
 
 public class Company {
 
+	//commit no1
 	
 	private String name;
 	
